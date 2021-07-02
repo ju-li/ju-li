@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @ju-li
-- 🏗 I’m currently building https://jama.ai
-- 📫 How to reach me: https://www.linkedin.com/in/juli2/
+* 👋 Hi, I’m @ju-li
+* 🏗 I’m currently building https://jama.ai
+* 📃 A bit about me:
+    * I'm currently an Entrepreneur at Antler
+    * Previously built https://tripli.com and https://getbuylo.com - interviewed with YCombinator for both
+    * Was a Strategy Manager at EverQuote (NASDAQ: EVER) - transformed and grew their B2B sales team
+    * Was a consultant at Analysis Group, a top Economics Consulting firm
+* 📫 How to reach me: https://www.linkedin.com/in/juli2/
 
 <!---
 ju-li/ju-li is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
