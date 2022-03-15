@@ -1,5 +1,5 @@
 * 👋 Hi, I’m @ju-li
-* 🏗 I’m currently building https://jama.ai (We're hiring!)
+* 🏗 I’m currently building https://www.krinu.com (We're hiring!)
 * 📃 A bit about me:
     * I'm currently an Entrepreneur at Antler
     * Previously built https://tripli.com and https://getbuylo.com - interviewed with YCombinator for both
