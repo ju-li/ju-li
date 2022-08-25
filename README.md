@@ -1,5 +1,5 @@
 * 👋 Hi, I’m @ju-li
-* 🏗 I’m currently building https://www.krinu.com (We're hiring!)
+* 🏗 I’m currently building Krinu @ https://www.krinu.com
 * 📃 A bit about me:
     * Previously built https://tripli.com and https://getbuylo.com - interviewed with YCombinator for both
     * Was a Strategy Manager at EverQuote (NASDAQ: EVER) - transformed and grew their B2B sales team
