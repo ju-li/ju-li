@@ -1,8 +1,8 @@
 * 👋 Hi, I’m @ju-li
-* 🏗 I’m currently a MBA student at NYU Stern. Cooking up my next startup.
 * 📃 A bit about me:
-    * Built https://www.revbull.io - insurance lead gen. **Active**
-    * Built https://www.getautomata.app - use your personal iMessage/WhatsApp/Telegram for message automation/marketing. **Acquired**
+    * Building https://www.revbull.io - insurance lead gen. **Active**
+    * Building https://www.mommymahjong.com - my mom wants to play mahjong with her friends. **Active** 
+    * Rebuilding https://www.getautomata.app - safely connect your WhatsApp to AI. **Active**
     * Built https://www.krinu.com - a sales enablement tool that connects your personal messaging apps such as WhatsApp, Telegram and iMessage with your CRM. Raised $150k USD from top VCs. **Defunct**
     * Built https://tripli.com and https://getbuylo.com - interviewed with YCombinator for both **Defunct**
     * Was a Strategy Manager at EverQuote (NASDAQ: EVER) - transformed and grew their B2B sales team
