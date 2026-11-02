@@ -6,6 +6,7 @@
     * Building https://www.revmaxx.ai - lead gen in an AI future. **Active**
     * Built https://www.krinu.com - a sales enablement tool that connects your personal messaging apps such as WhatsApp, Telegram and iMessage with your CRM. Secured over $1M USD in investment commits from top VCs. **Defunct**
     * Built https://tripli.com and https://getbuylo.com - tried to disrupt the travel industry during COVID. Interviewed with YCombinator for both **Defunct**
+    * Was a Technical PM at Masterworks (art investment platform) - completely re-engineered their sales tooling to enable 2X growth
     * Was a Strategy Manager at EverQuote (NASDAQ: EVER) - transformed and grew their B2B sales team
     * Was a consultant at Analysis Group, a top Economics Consulting firm
 * 📫 How to reach me: 
